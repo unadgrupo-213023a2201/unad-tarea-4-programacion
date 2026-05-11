@@ -1,3 +1,5 @@
+#Autor: Samuel José Briceño Castro
+
 # Importa función principal de pruebas
 from Simulaciones.pruebas import ejecutar_pruebas
 

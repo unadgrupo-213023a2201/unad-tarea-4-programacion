@@ -1,3 +1,5 @@
+#Autor: Samuel José Briceño Castro
+
 # Importa excepción personalizada
 from Excepciones.excepciones import ReservaError
 

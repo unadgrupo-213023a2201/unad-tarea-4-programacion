@@ -1,3 +1,5 @@
+#Autor: Samuel José Briceño Castro
+
 # Función para registrar logs
 
 def registrar_log(mensaje):
