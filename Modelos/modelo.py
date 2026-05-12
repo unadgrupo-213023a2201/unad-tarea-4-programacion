@@ -1,3 +1,6 @@
+# Nombre del script: Plantilla general
+# Autor: Andres Alfonso Julio Hernandez
+
 from abc import ABC, abstractmethod
 
 #Plantilla general para otras clases
