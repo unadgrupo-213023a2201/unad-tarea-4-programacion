@@ -1,0 +1,15 @@
+ERROR CLIENTE: Nombre inválido
+ERROR SERVICIO: Costo inválido
+Reserva confirmada
+ERROR CLIENTE: Nombre inválido
+ERROR SERVICIO: Costo inválido
+Reserva confirmada
+ERROR: Duración inválida
+ERROR: Servicio no disponible
+ERROR ENCADENADO: Conversión inválida
+Reserva confirmada
+ERROR CLIENTE: Nombre inválido
+ERROR SERVICIO: Costo inválido
+ERROR: Duración inválida
+ERROR: Servicio no disponible
+ERROR ENCADENADO: Conversión inválida

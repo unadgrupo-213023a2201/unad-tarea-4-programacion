@@ -71,4 +71,4 @@ class Reserva:
     # Método para mostrar información
     def mostrar_info(self):
 
-        return f"Cliente: {self.cliente.nombre} | Servicio: {self.servicio.nombre} | Horas: {self.horas} | Estado: {self.estado}"
+        return f"Cliente: {self.cliente.get_nombre()} | Servicio: {self.servicio.nombre} | Horas: {self.horas} | Estado: {self.estado}"
